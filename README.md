@@ -3,8 +3,8 @@
 Haqbaat is a WhatsApp bot designed to empower and uplift Pakistani women by providing them an easy interface to access information regarding their rights in Pakistan. The bot is built to interact with users in Roman Urdu, making it convenient for women to communicate and obtain information easily.
 
 <p float="left">
-  <img src="https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s3.jpeg" alt="screenshot1" width="400" />
-  <img src="https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true" alt="screenshot2" width="400" />
+  <img src="https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s3.jpeg" alt="screenshot1" width="300" style="margin-right: 20px;" />
+  <img src="https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true" alt="screenshot2" width="300" />
 </p>
 
 ## Purpose and Features ✨
@@ -83,4 +83,7 @@ Contributions to the Haqbaat WhatsApp Bot project are welcome! If you find any i
 
 🙋‍♀️🌟 Let's empower Pakistani women together!
 
-![Screenshot3](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true) ![Screenshot4](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s2.jpeg?raw=true)
+<p float="left">
+  <img src="[https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s3.jpeg](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true)" alt="screenshot1" width="300" style="margin-right: 20px;" />
+  <img src="[https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s2.jpeg?raw=true)" alt="screenshot2" width="300" />
+</p>
