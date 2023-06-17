@@ -2,6 +2,9 @@
 
 Haqbaat is a WhatsApp bot designed to empower and uplift Pakistani women by providing them an easy interface to access information regarding their rights in Pakistan. The bot is built to interact with users in Roman Urdu, making it convenient for women to communicate and obtain information easily.
 
+![screenshot1](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s3.jpeg) ![screenshot2](![image](https://github.com/saleha-muzammil/HaqBaat-bot/assets/84681153/3c4ff198-3b9f-457d-a52a-f24803ad63d4)
+)
+
 ## Purpose and Features ✨
 
 The purpose of the Haqbaat WhatsApp Bot is to provide an accessible platform for Pakistani women to engage with the bot and gain knowledge about women's rights. The bot aims to empower women by delivering information, resources, and support through the convenience of WhatsApp.
@@ -77,3 +80,5 @@ Contributions to the Haqbaat WhatsApp Bot project are welcome! If you find any i
 
 
 🙋‍♀️🌟 Let's empower Pakistani women together!
+
+![Screenshot3](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true) ![Screenshot4](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s2.jpeg?raw=true)
