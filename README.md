@@ -1,4 +1,4 @@
-# Haqbaat Bot ⚖️ ♀
+# Haqbaat Bot ⚖️♀
 
 Haqbaat is a WhatsApp bot designed to empower and uplift Pakistani women by providing them an easy interface to access information regarding their rights in Pakistan. The bot is built to interact with users in Roman Urdu, making it convenient for women to communicate and obtain information easily.
 
