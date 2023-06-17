@@ -84,6 +84,6 @@ Contributions to the Haqbaat WhatsApp Bot project are welcome! If you find any i
 🙋‍♀️🌟 Let's empower Pakistani women together!
 
 <p float="left">
-  <img src="[https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s3.jpeg](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true)" alt="screenshot1" width="300" style="margin-right: 20px;" />
-  <img src="[https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true](https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s2.jpeg?raw=true)" alt="screenshot2" width="300" />
+  <img src="https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s4.jpeg?raw=true" alt="screenshot1" width="300" style="margin-right: 20px;" />
+  <img src="https://github.com/saleha-muzammil/HaqBaat-bot/blob/main/screenshots/s2.jpeg?raw=true" alt="screenshot2" width="300" />
 </p>
